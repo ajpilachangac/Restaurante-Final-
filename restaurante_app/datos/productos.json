@@ -1,0 +1,37 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Llapingacho",
+        "categoria": "Platillo",
+        "precio": 4.5,
+        "stock": 15
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Locro de papas",
+        "categoria": "Platillo",
+        "precio": 3.75,
+        "stock": 10
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Jugo de naranja",
+        "categoria": "Bebida",
+        "precio": 1.75,
+        "stock": 30
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Arroz marinero",
+        "categoria": "Platillo",
+        "precio": 7.5,
+        "stock": 12
+    },
+    {
+        "codigo": "P005",
+        "nombre": "Rodajas de sandía (incluye plato)",
+        "categoria": "Postre",
+        "precio": 2.25,
+        "stock": 20
+    }
+]
